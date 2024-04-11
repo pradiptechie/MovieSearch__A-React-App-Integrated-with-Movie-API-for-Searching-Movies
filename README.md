@@ -1,7 +1,7 @@
 ### Things I learned in this Project:
 
 REACT ****
-    1. Component Composition (Create-import-Export)
+    1. Component Composition (Create-import-Export)\n
     2. Props
     3. React Hooks:
         - useState
