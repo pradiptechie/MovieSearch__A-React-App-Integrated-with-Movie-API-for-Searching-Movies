@@ -1,8 +1,8 @@
 ### Things I learned in this Project:
 
 REACT ****
-    1. Component Composition (Create-import-Export)
-    2. Props
+-1. Component Composition (Create-import-Export)
+-2. Props
     3. React Hooks:
         - useState
         - useEffect
