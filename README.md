@@ -11,4 +11,4 @@
   6. Dynamic Search Functionality
   7. Conditional Rendering
 
-*Note: My primary aim is to learn React and work with backend APIs, so i have not focused on written styles by self.
+*Note: My primary aim is to learn React and work with backend APIs, so i have not focused on writting styles by self.
